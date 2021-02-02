@@ -1,7 +1,8 @@
 (1) R Srinivasa Aditya Varma, Marthy Siva Sai Krishna "ESTIMATION OF CHANNEL IN OFDM WIRELESS CHANNEL USING LS AND MMSE TECHNIQUES",
 International Journal of Electronics and Communication Engineering and Technology (IJECET)
 
-(2) R.S Ganesh, J Jayakumari, I.P Akhila, "•	A Channel estimation technique using pilot carriers for multiple input multiple output (MIMO) systems for a Rayleigh fading channel",
+(2) R.S Ganesh, J Jayakumari, I.P Akhila, "•	A Channel estimation technique using pilot carriers for multiple input multiple output (MIMO) systems for a Rayleigh 
+fading channel",
 International Conference on Signal Processing, Communication, Computing and Networking Technologies 21-22 July 2011
 
 (3) Weiwei Yang, Yueming Cai, Junquan Hu, Wendong Yang1 "Channel Estimation for Two-Way Relay OFDM Networks", EURASIP Journal
@@ -27,11 +28,22 @@ MIMO-OFDM system.", IEEE, Chiang Mai, Thailand Dec. 2011
 (11) Ye (Geoffrey) Li, Nambirajan Seshadri , Sirikiat Ariyavisitakul "Channel Estimation for OFDM Systems with Transmitter Diversity in Mobile Wireless Channels", 
 IEEE JOURNAL
 
-(12) Sukanya Samanta, T. Venkata Sridha, "implemented two different OFDM channel estimation methods for single carrier systems ",  2018 3rd IEEE International Conference on Recent Trends in Electronics, 
+(12) Sukanya Samanta, T. Venkata Sridha, "implemented two different OFDM channel estimation methods for single carrier systems ",  2018 3rd IEEE International Conference on 
+Recent Trends in Electronics, 
 Information & Communication Technology (RTEICT) 18-19 May 2018
 
 (13) Simeon Furrer, Dirk Dahlhaus, "",IEEE Transactions on Information Theory ( Volume: 53, Issue: 6, June 2007) 29 May 2007
 
-(14) Taoliu Taoliu, Hongwei Zhang, "•	DFT-based channel estimation", 2019 3rd International Conference on Electronic Information Technology and Computer Engineering (EITCE) 18-20 Oct. 2019
+(14) Taoliu Taoliu, Hongwei Zhang, "•	DFT-based channel estimation", 2019 3rd International Conference on Electronic Information Technology
+and Computer Engineering (EITCE) 18-20 Oct. 2019
 
-(15)   
+(15)  Rashmi Mohan , Sagar S , Varsha P, "Channel estimation in mobile wireless systems", International Journal of Electronics 
+and communications Engineering and technology(IJECET) , 2019
+
+(16) Nidhi Jaisval , Richa Shrivastava , Shivam Kare, "Channel estimation in mobile wireless channel using Least Square Method", Journal of Emerging Technologies 
+and Innovative Research(JETIR) . 
+
+(17) Langoria Gandara, "Estimation of corelated MIMO channels using partial channel state information and DPSS", IEEE Trasactions on wireless communications , 2011.
+
+(18) Velimir Svedek , Adrian SatjaKUrdija, "Wireless channel estimation in OFDM systems based on collaborative filtering techiques.", 
+Journal of Electrical Engineering , 2019
