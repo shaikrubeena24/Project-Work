@@ -1,0 +1,25 @@
+1.
+      Title          : Channel Estimation for MIMO-OFDM Systems by Modal Analysis/Filtering
+      Author         : Marcello Cicerone,Osvaldo Simeone, Umberto Spagnolini
+      Journal        : Marcello Cicerone, Osvaldo Simeone, Member, IEEE, and Umberto Spagnolini, Senior Member, IEEE
+      Parameters     : Adaptive estimation, communication systems performance, fading channels, frequency-division multiplexing, multiple-input multiple-output (MIMO) systems
+      Findings       : 
+                       * The proposed channel estimators compute the long-term features of the multipath channel model through a subspace tracking algorithm by identifying the invariant (over multiple OFDM symbols) space/time modes of the channel (modal analysis). 
+                       * the fast-varying fading amplitudes are tracked by using least-squares techniques that exploit temporal correlation of the fading process (modal filtering)
+2.
+      Title          : Channel Estimation of the Orthogonal Frequency Division Multiplexing
+      Author         : Wu et al
+      Journal        : International Journal of Recent Technology and Engineering (IJRTE) ISSN: 2277-3878, Volume-7, Issue-6S4, April 2019
+      Parameters     : 
+      Findings       : Discrete Cosine Transform (DCT) CE technique.
+      Advantage      : It does not increase the power overhead due to that this method achieved high spectral efficiency
+      Limitation     : The performance of the system degraded when the power increases
+      
+3.
+      Title          : OFDM Channel Estimation and Signal Detection on Nonintegral-Delay and Fast Time-Varying Channels
+      Author         : Weihua Chen, Xia Lei, and Shaoqian Li
+      Journal        : National Key Laboratory of Communications, University of Electronic Science and Technology of China Chengdu, 610054, P.R. China
+      Parameters     : Fast time-varying channel, nonintegral-delay, channel estimation, signal detection, ESPRIT.
+      Findings       : * channel estimation and signal detection technique is presented for orthogonal frequency division multiplexing (OFDM) system on fast time-varying fading channel with nonintegral-delays.
+                       * This technique, based on a linear parametric channel model, rotationally employs estimating signal parameter via rotational invariance techniques (ESPRIT) and interchannel interference (ICI) mitigation to get more accurate channel estimation and data detection. 
+                       * Simulation results show that the proposed method is robust to changes in channel characteristics, and the performance of which is superior to other structures without ICI mitigation or with integral-delays.
