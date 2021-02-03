@@ -23,3 +23,50 @@
       Findings       : * channel estimation and signal detection technique is presented for orthogonal frequency division multiplexing (OFDM) system on fast time-varying fading channel with nonintegral-delays.
                        * This technique, based on a linear parametric channel model, rotationally employs estimating signal parameter via rotational invariance techniques (ESPRIT) and interchannel interference (ICI) mitigation to get more accurate channel estimation and data detection. 
                        * Simulation results show that the proposed method is robust to changes in channel characteristics, and the performance of which is superior to other structures without ICI mitigation or with integral-delays.
+
+
+
+Tandava Krishna(17BQ1A05L7):
+ 
+ 1. Channel estimation in mobile wireless systems
+   Authors      : Rashmi Mohan, Sagar S, Thejaswini N, Varsha P, Akshaya Y M and Pramela B
+   Journal      : International Journal of Electronics and Communication Engineering and Technology(IJECET).
+   Parameters   : F-OFDM , OFDM , MSE , LS.
+   Findings     : To provide reliability and high data rates at the receiver, the system needs an accurate estimate of the time-varying channel.
+   Graphs       : The graph is between SNR(dB) and BER(Bit Error Rate) where SNR(dB) increases then BER will be decreases.
+
+2. Channel estimation in OFDM Mobile Wireless channel using Least Square Method
+   Authors      : Nidhi Jaiswal,Richa Shrivastava,Shivam Khare
+   Journal      : Journal of Emerging Technologies and Innovative Research (JETIR)
+   Parameters   : Doppler Diversity, OFDM, Pilot Sequences, Channel estimation, Least Square.
+   Findings     : * The Least Square(LS) method is used for channel estimation technique using the block type pilot sequences.
+		      * The main goal is to test the recently proposed method, time-variant channel estimation using pilot sequence.
+		      * The basic idea was to use parallel data and FDM with overlapping subchannel to avoid the use of high-speed equalization to combat impulsive noise and multipath distortion and fully utilize bandwidth.
+   Graphs       : The graph is between Power and frequency. 
+
+3. Estimation of Correlated MIMO Channels using Partial Channel State Information and DPSS
+   Authors      : Omar Longoria-Gandara , R. Parra-Michel. 
+   Journal      :IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS.
+   Parameters   : multiple-input multiple-output (MIMO) , reduced-rank (RR) , partial channel state information (CSI)
+   Findings     : * In this proposed model we correlated multiple-input multiple-output (MIMO) channel estimation based on reduced-rank (RR) technique and partial channel state
+                    information (CSI).
+		      * This paper shows that close linear minimum mean-squareerror (LMMSE) performance can be achieved with the use of predefined bases derived from the knowledge of the maximum angular dispersion
+		      * A theoretical framework to synthesize a suitable set of bases is provided, from which discrete prolate spheroidal sequences (DPSSs) are identified as one of the appropriate predefined bases for spatial channel representation.
+
+   Graphs       : The graph is drawn between angle-of-departure (AoD) and power(linear)
+4. Wireless channel estimation in OFDM systems based on collaborative filtering techniques
+   Authors      : Velimir Svedek , Adrian Satja Kurdija , Zeljko Ili´c
+   Journal      : Journal of ELECTRICAL ENGINEERING.
+   Parameters   : CF algorithm , OFDM, channel estimation , interpolation methods.
+   Findings     : * The proposed algorithm is suitable for cases with low density of pilot sub-carriers.
+		        the proposed algorithm improves predictive accuracy metrics, such as Root Mean Squared Error (RMSE), compared to usual estimation methods.
+   Graphs       : 1. The graph is between Density and Root Mean Square Error.
+		      2. The graph is drawn between Density and Thrushold.
+5. Design of OFDM Model
+   Authors      : Mr. Rahul S. Bilwane	
+   Journal      : International Journal of Research(IJR)
+   Parameters   : Communication system, Fast Fourier Transformations , Inverse Fast fourier Transformations.
+   Findings     : * In this model , we are going to define the Peak to Average Power Ratio (PAPR) along with Bit Error Rate(BER).
+		      * Also we are trying to shift the frequency signal from one frequency band to another frequency band, sothat we can use the same OFDM model on 
+                    that shifted frequency
+   Graphs       : The graph is drawn between Bit Error Rate (BER) & Peak to Average Power Ratio( PAPR).
