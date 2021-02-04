@@ -70,4 +70,63 @@
 		      * Also we are trying to shift the frequency signal from one frequency band to another frequency band, sothat we can use the same OFDM model on 
                     that shifted frequency
    Graphs       : The graph is drawn between Bit Error Rate (BER) & Peak to Average Power Ratio( PAPR).
-9.ghggb
+9. Title        : ESTIMATION OF CHANNEL IN OFDM WIRELESS CHANNEL USING LS AND MMSE TECHNIQUES
+   Authors      : R Srinivasa Aditya Varma, Marthy Siva Sai Krishna 	
+   Journal      : International Journal of Electronics and Communication Engineering and Technology (IJECET) 
+   Parameters   : Amplitude ,data points , Time ,Symbol error rate ,SNR in DB.
+   Findings     : used LS (Least Square) and MMSE (Minimum Mean Square Error) to estimate a channel and compared those two techniques.
+   		  Techniques such as FDMA, TDMA, and CDMA for effective utilization of bandwidth. 
+   Graphs       : 1.The graph is drawn between Amplitude & data points for a single signal , after dividing into sub carriers and sub carriers with cyclic prefix .
+   		  2.The graph is drawn between Amplitude & time for OFDM signal.
+		  3.The graph is drawn between Symbol error rate & SNR in DB for o/p using least square estimator and MME estimator.
+10.Title        : Coherent Detection of Turbo-Coded OFDM Signals Transmitted Through Frequency Selective Rayleigh Fading Channels
+   Authors      : K. Vasudevan 
+   Journal      : presented as an Invited Talk at the International Federation of Nonlinear Analysts (IFNA) World Congress, Greece and published in ISPCC 
+   Parameters   : Byte error rate ,SNR in DB,outage probability,.
+   Findings     : Receiver Diversity and Increased Throughput
+   		  Deals with coherent receivers based on orthogonal frequency division multiplexing (OFDM) 
+		  *first outlining the tasks of a coherent receiver. 
+		  *The basic tasks of the coherent receiver would be: 
+		  	1. To correctly identify the start of the (OFDM) frame (SoF), such that the probability of false alarm (detecting an OFDM 
+			frame when it is not present) or equivalently the probability of erasure/miss (not detecting the OFDM frame when it is present)
+			is minimized. We refer to this step as timing synchronization. 
+			2. To estimate and compensate the carrier frequency offset (CFO), since OFDM is known to be sensitive to CFO. This task is 
+			referred to as carrier synchronization. 
+			3. To estimate the channel impulse/frequency response.
+			4. To perform (coherent) turbo decoding and recover the data 
+		  *The modifications in the turbo decoder in the presence of receive diversity and the variance of the channel estimation error 
+		  enhanced frame structure, that increase the throughput, which in turn, depends on Ld 
+		  *This paper deals with linear complexity coherent detectors for turbo-coded OFDM signals transmitted over frequency selective Rayleigh fading channels.
+		  *Simulation results show that it is possible to achieve a BER of 10−5 at an SNR per bit of 8 dB and throughput equal to 82.84%, using a single
+		  transmit and two receive antennas. 
+   Graphs       : 1.The graph is drawn between Byte error rate & SNR in DB for stimulation result without data interleaving.
+   		  2.The graph is drawn between Byte error rate & SNR in DB for stimulation result with data interleaving.
+		  3.The graph is drawn between outage probability & SNR in DB for stimulation result with data interleaving.
+11. Title        : Channel Estimation for Wireless OFDM Communications 
+   Authors      : Jia-Chin Lin 	
+   Journal      : Journal of ELECTRICAL ENGINEERING.
+   Parameters   : subcarriers , symbol index
+   Findings     : variety of CE techniques on OFDM communications were investigated. 
+   Formula      : based on different models like time-domain channel estimation based on Least square techniques,frequency-domain channel 
+   		  estimation based on comb type pilot arrangement ,etc.
+12.Title        : Channel Estimation for OFDM Systems with Transmitter Diversity in Mobile Wireless Channels
+   Authors      : Ye (Geoffrey) Li, Nambirajan Seshadri , Sirikiat Ariyavisitakul 	
+   Journal      : IEEE JOURNAL  
+   Parameters   : WER,SNR in DB.
+   Findings     : *studied transmitter diversity using space-time coding for OFDM systems.
+   		  *developed channel parameter estimation approaches, which are crucial for the decoding of space-time codes, and we derive the
+		  MSE bounds for these estimation approaches. 
+   Graphs       : 1.When a nine-tap significant-tap-catching (STC) estimator is used graph for signal transmition.
+   		  2.When a seven or nine-tap STC estimator is used for signal transmition.
+13.Title        : Channel Estimation for Two-Way Relay OFDM Networks 
+   Authors      : Weiwei Yang, Yueming Cai, Junquan Hu, Wendong Yang	
+   Journal      : EURASIP Journal  
+   Parameters   : MES,SER,SNR in DB.
+   Findings     : *proposed LS-based channel estimation algorithms under block-based training schemes for two-way relay OFDM networks. 
+   		  *By minimizing MSE, the condition and design method of the optimal training sequences was discussed. 
+		  *The optimal training sequences based on a special sequence called Zadoff-Chu sequence are designed to achieve the same 
+		  minimum MSE performance as the orthogonal optimal training sequences with better PAPR performance. 
+   Graphs       : 1.MES performed for different SNR's
+   		  2.SER performed for different SNR's
+		  
+		  
