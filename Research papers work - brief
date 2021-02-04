@@ -129,4 +129,56 @@
    Graphs       : 1.MES performed for different SNR's
    		  2.SER performed for different SNR's
 		  
-		  
+ 14.    Title	:Learning the MMSE Channel Estimator
+	Author	: David Neumann, Thomas Wiese
+	Journal : IEEE Transactions on Signal Processing ( Volume: 66, Issue: 11, June1, 1 2018)   30 January 2018
+	Parameters : Channel estimation, Covariance matrices, Complexity theory, Channel models, Antenna arrays, Random variables
+	Findings   :  * This network learns the MMSE estimator for the unstructured model, but only within the given class of estimators that contains the MMSE estimator for the structured model.
+		      *	Numerical simulations with typical spatial channel models demonstrate the generalization properties of the chosen class of estimators to realistic channel models.
+	
+15.	Title	: CHANNEL ESTIMATION STUDY FOR BLOCK - PILOT INSERTION IN OFDM SYSTEMS UNDER SLOWLY TIME VARYING CONDITIONS
+	Author	:PR. RIDHA BOUALLEGUE,ZAIER AIDA
+	Journal :International Journal of Computer Networks & Communications (IJCNC) Vol.3, No.6, November 2011
+	Parameters :  block – pilot insertion, time varying channel,
+	Findings   : * In this paper, we proposed a study of performance of the channel estimation using LS, MMSE, LMMSE and Lr-LMMSE algorithms in OFDM (Orthogonal Frequency Division Multiplexing) system which, as
+			known suffers from the time variation of the channel under high mobility conditions, using block pilot insertion.
+		     * The loss of sub channel orthogonality leads to inter-carrier interference (ICI). Using many algorithms for channel estimation
+	
+	Title	: A Comparative Analysis of LS and MMSE Channel Estimation Techniques for MIMOOFDM System
+	Author	: Akash Kumar Shrivas 
+	Journal : IJIRST –International Journal for Innovative Research in Science & Technology| Volume 1 | Issue 8 | January 2015 ISSN (online): 2349-6010
+	Parameters : Frequency, Time
+	Findings   : * The objective of this study is up channel estimation accuracy in OFDM system as a result of channel state info is needed for detection at receiver and its accuracy affects the performance of system
+			and it's essential to improve the channel estimation for a lot of reliable communications.
+		     * OFDM system was chosen during this study because it's been wide used nowadays owing to its high knowledge rate, data rate and its adequate performance in frequency selective attenuation channels. 
+		     * The pilots were inserted among subcarriers in transmitter with distances emerged of sampling theory then Least sq. (LS) technique & minimum meansquare error (MMSE) was chosen
+	
+16.	Title	: Hybrid Approach for Channel Estimation Using Iterative Compensation and LMS Algorithm
+	Author	:Bhanu Partap, Prabhjot Singh
+	Journal :International Journal of Engineering & Technology, 
+	Parameters : MSE, Ebno--MSE Analysis of OFDM System
+	Findings   :    * In Orthogonal Frequency Division Multiplexing, the concept of channel equalization and estimation plays a vital role to improve the performance of the system by reducing the 
+			effects of distortion in the signals that occurs due to fading, multipath, delay spreads. 
+			* In this study a hybrid channel estimation technique is developed by collaborating the iterative compensation mechanism with Least
+			Mean Square technique. 
+			* The performance of the proposed work is observed to be more effective and efficient than the Iterative compensation based channel 
+			estimation technique in the terms of Mean Square Error (MSE).
+			
+17.	Title    : Adaptive Blind Channel Estimation using LMS Based Techniques in OFDM Systems
+	Author   : Rajeshbabu Chitikena, P.Esther Rani
+	Journal  : INTERNATIONAL JOURNAL OF SCIENTIFIC & TECHNOLOGY RESEARCH VOLUME 8, ISSUE 09, SEPTEMBER 2019
+	Parameter :
+	Findings  : * the channel state information is retrieved utilizing channel estimation, when all the channels between the transmit antenna are accurately known. 
+		    * In this paper, we describe about the basic information of MIMO-OFDM system and also reviews the dissimilar channel estimation techniques used in
+		    MIMO-OFDM system with various system parameters.
+		    * In this paper, a survey on various Channel Estimation Techniques used in MIMO-OFDM systems is presented. The performance of the system can be improved,
+		    if channel state information of MIMO channels is estimated by channel estimation schemes.
+		   
+18.   Title          : Channel Estimation of the Orthogonal Frequency Division Multiplexing
+      Author         : Wu et al
+      Journal        : International Journal of Recent Technology and Engineering (IJRTE) ISSN: 2277-3878, Volume-7, Issue-6S4
+      Parameters     : Carrier frequency, Time
+      Findings       : * Discrete Cosine Transform (DCT) CE technique.,Time-domain maximum likelihood CE technique,Zero correlation based CE technique
+      			* This paper concludes that the performance of different CE techniques based on various power factors, estimation accuracy, BER, error signal detection, SNR and MSE. This survey pape
+      Advantage      : It does not increase the power overhead due to that this method achieved high spectral efficiency
+      Limitation     : The performance of the system degraded when the power increases
