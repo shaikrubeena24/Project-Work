@@ -26,16 +26,16 @@
 
 
 
-Tandava Krishna(17BQ1A05L7):
+
  
- 1. Channel estimation in mobile wireless systems
+ 4.Title        :Channel estimation in mobile wireless systems
    Authors      : Rashmi Mohan, Sagar S, Thejaswini N, Varsha P, Akshaya Y M and Pramela B
    Journal      : International Journal of Electronics and Communication Engineering and Technology(IJECET).
    Parameters   : F-OFDM , OFDM , MSE , LS.
    Findings     : To provide reliability and high data rates at the receiver, the system needs an accurate estimate of the time-varying channel.
    Graphs       : The graph is between SNR(dB) and BER(Bit Error Rate) where SNR(dB) increases then BER will be decreases.
 
-2. Channel estimation in OFDM Mobile Wireless channel using Least Square Method
+5. Title        :Channel estimation in OFDM Mobile Wireless channel using Least Square Method
    Authors      : Nidhi Jaiswal,Richa Shrivastava,Shivam Khare
    Journal      : Journal of Emerging Technologies and Innovative Research (JETIR)
    Parameters   : Doppler Diversity, OFDM, Pilot Sequences, Channel estimation, Least Square.
@@ -44,7 +44,7 @@ Tandava Krishna(17BQ1A05L7):
 		      * The basic idea was to use parallel data and FDM with overlapping subchannel to avoid the use of high-speed equalization to combat impulsive noise and multipath distortion and fully utilize bandwidth.
    Graphs       : The graph is between Power and frequency. 
 
-3. Estimation of Correlated MIMO Channels using Partial Channel State Information and DPSS
+6. Title        :Estimation of Correlated MIMO Channels using Partial Channel State Information and DPSS
    Authors      : Omar Longoria-Gandara , R. Parra-Michel. 
    Journal      :IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS.
    Parameters   : multiple-input multiple-output (MIMO) , reduced-rank (RR) , partial channel state information (CSI)
@@ -54,7 +54,7 @@ Tandava Krishna(17BQ1A05L7):
 		      * A theoretical framework to synthesize a suitable set of bases is provided, from which discrete prolate spheroidal sequences (DPSSs) are identified as one of the appropriate predefined bases for spatial channel representation.
 
    Graphs       : The graph is drawn between angle-of-departure (AoD) and power(linear)
-4. Wireless channel estimation in OFDM systems based on collaborative filtering techniques
+7. Title        : Wireless channel estimation in OFDM systems based on collaborative filtering techniques
    Authors      : Velimir Svedek , Adrian Satja Kurdija , Zeljko Ili´c
    Journal      : Journal of ELECTRICAL ENGINEERING.
    Parameters   : CF algorithm , OFDM, channel estimation , interpolation methods.
@@ -62,7 +62,7 @@ Tandava Krishna(17BQ1A05L7):
 		        the proposed algorithm improves predictive accuracy metrics, such as Root Mean Squared Error (RMSE), compared to usual estimation methods.
    Graphs       : 1. The graph is between Density and Root Mean Square Error.
 		      2. The graph is drawn between Density and Thrushold.
-5. Design of OFDM Model
+8. Title        :Design of OFDM Model
    Authors      : Mr. Rahul S. Bilwane	
    Journal      : International Journal of Research(IJR)
    Parameters   : Communication system, Fast Fourier Transformations , Inverse Fast fourier Transformations.
@@ -70,3 +70,4 @@ Tandava Krishna(17BQ1A05L7):
 		      * Also we are trying to shift the frequency signal from one frequency band to another frequency band, sothat we can use the same OFDM model on 
                     that shifted frequency
    Graphs       : The graph is drawn between Bit Error Rate (BER) & Peak to Average Power Ratio( PAPR).
+9.ghggb
