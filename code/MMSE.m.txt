@@ -1,4 +1,9 @@
 function H_MMSE = MMSE(RxP,TxP,N,pilotFrequency,h_CIR,SNR)
+% I modified the MMSE_CE function provided in :MIMO-OFDM Wireless 
+% Communications with MATLAB¢ç   Yong Soo Cho, Jaekwon Kim, 
+% Won Young Yang and Chung G. Kang
+%2010 John Wiley & Sons (Asia) Pte Ltd
+% The modification made the function more suitable with my OFDM Matlab code
 noiseVar = 10^(SNR*0.1);
 Np=N/pilotFrequency; % Number of Pilots
 H_LS = RxP./TxP;  % LS estimate
