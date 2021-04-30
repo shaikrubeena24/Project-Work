@@ -1,3 +1,12 @@
+%% OFDM - Multiple Subcarriers 
+%Generate Data Bits
+%Apply modulation and Reshape 
+%Perform ifft operation
+%Assume Channel and add awgn and rayleigh noise
+%At receiver equalize and take FFT
+%Reshape and demodulate
+%Find bit error rate
+%% Code
 clear all; close all; clc;
 data= randi([0 1], 2^16 ,1);
 for i=6:1:9
